@@ -20,18 +20,18 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #BF5700;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Roboto', Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #BF5700;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #BF5700;
 }
 blockquote {
   color: #808080;
@@ -69,12 +69,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #BF5700;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #BF5700;
 }
 img::selection {
   color: white;
@@ -125,7 +125,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #BF5700;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -325,7 +325,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #BF5700;
 }
 
 .post-preview .post-title {
@@ -395,14 +395,14 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #BF5700;
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #BF5700;
   background-color: #CCC;
 }
 
@@ -598,8 +598,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #BF5700;
+  border: 1px solid #BF5700;
 }
 
 .pager {
