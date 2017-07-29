@@ -66,7 +66,7 @@ pygmentCodeFences = true
 [[menu.main]]
     parent = "about"
     name = "UXPA"
-    url = "http://uxpa.org/"
+    url = "page/uxpa/"
     weight = 1
 
 [[menu.main]]
