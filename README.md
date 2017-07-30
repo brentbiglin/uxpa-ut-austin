@@ -23,10 +23,10 @@ To make a new blog entry:
 5. Type your post in the Markdown language below the front matter. See [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a Markdown Cheatsheet. Your post will be edited for format before it's published, so don't worry about it too much! Just type your text into the file.
 6. Check http://localhost:1313/ to see your changes in realtime.
 
-To push a change that you've made to GitHub:
+*To push a change that you've made to GitHub:*
 1. In the uxpa-ut-austin folder
 2. ```git status```
 3. ```git add THE-FILE-YOU-CHANGED-OR-ADDED```
-4. ```git commit -m "THE CHANGE YOU MADE"```
+4. ```git commit -m "blog entry from YOUR NAME"```
 5. ```git push```
 6. This will have updated your own personal fork of the repository. To request that your change or update is pushed to the UXPA UT Austin website, go to your repository's page on the GitHub website and click "New pull request."
