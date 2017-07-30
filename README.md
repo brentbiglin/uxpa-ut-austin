@@ -7,14 +7,14 @@
 5. You should then have a copy of the site on your computer, which you can change.
 
 ### To host the site locally to make changes and view changes:
-1. Open Terminal
+1. Open a terminal.
 2. Go to the uxpa-ut-austin folder (remember that the command ```ls``` allows you to view the contents of the folder you're in, ```cd FOLDER``` takes you to that folder, and ```cd ..``` with two periods navigates to the parent folder of the one you're in).
 3. Run the command ```hugo server```. This builds the website on your computer and hosts it locally on your computer.
 4. Go to http://localhost:1313/ in your browser
 5. Any changes you make will be updated automatically.
 
 ### To make a new blog entry:
-1. Open Terminal and go to the uxpa-ut-austin folder.
+1. Open a terminal and go to the uxpa-ut-austin folder.
 2. Type the command ```hugo new post/YEAR-MONTH-DAY-YOUR-NAME.md```. For example, if Han Solo created a new blog post on May 25th, 1977, he would type: ```hugo new post/1977-05-25-han-solo.md```.
 3. Open the file that you've created in a text editor of your choice (Vim, Atom, Sublime, Notepad, etc.).
 4. This is a Markdown file. The content in between the dashes is called the front matter, and provides information about the site. You'll want to change the "title" to whatever you want the title of your blog post to be.
@@ -22,10 +22,10 @@
 6. Check http://localhost:1313/ to see your changes in realtime.
 
 ### To push a change that you've made to GitHub:
-1. In the uxpa-ut-austin folder
+1. Navigate to the uxpa-ut-austin folder in terminal.
 2. ```git status```
 3. ```git add THE-FILE-YOU-CHANGED-OR-ADDED```
 4. ```git commit -m "blog entry from YOUR NAME"```
 5. ```git push```
-6. This will have updated your own personal fork of the repository. To request that your change or update is pushed to the UXPA UT Austin website, go to your repository's page on the GitHub website and click "New pull request."
+6. This will have updated your own personal fork of the repository. To request that your change or update is pushed to the UXPA UT Austin website (the original repository), go to your fork's page on the GitHub website and click "New pull request."
 7. After being reviewed, your pull request will be accepted and your blog post will be published to the site!
