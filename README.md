@@ -1,5 +1,3 @@
-# UXPA UT Austin
-
 ## How to Submit a Blog Post to UXPA UT Austin
 
 1. Create a GitHub account and log in.
