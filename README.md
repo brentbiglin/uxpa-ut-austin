@@ -10,7 +10,7 @@ To host the site locally to make changes:
 To push a change to GitHub:
 1. In the uxpa-ut-austin folder
 2. ```git status```
-3. ```git add foo```
-4. ```git commit -m "the change you made"```
+3. ```git add THE-FILE-YOU-CHANGED-OR-ADDED```
+4. ```git commit -m "THE CHANGE YOU MADE"```
 5. ```git push```
 6. Then go to the GitHub website and create a pull request.
