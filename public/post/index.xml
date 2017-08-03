@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UXPA UT Austin</title>
+    <link>https://uxpa.ischool.utexas.edu/post/</link>
+    <description>Recent content in Posts on UXPA UT Austin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>uxpautaustin@gmail.com (Brent Biglin)</managingEditor>
+    <webMaster>uxpautaustin@gmail.com (Brent Biglin)</webMaster>
+    <lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uxpa.ischool.utexas.edu/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post!</title>
+      <link>https://uxpa.ischool.utexas.edu/post/2017-06-28-first-post/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <author>uxpautaustin@gmail.com (Brent Biglin)</author>
+      <guid>https://uxpa.ischool.utexas.edu/post/2017-06-28-first-post/</guid>
+      <description>Brent Biglin: After attending the UXPA International Conference for the first time this past year, Kelsey Belcher, Eric Graham, Kathryn Golden, and I decided to start one of the first UXPA student chapters at the University of Texas at Austin. We&amp;rsquo;ve met the past two weeks on Tuesday evenings to sort out our charter and bylaws in order to start taking members and creating events for the Fall 2017 semester.</description>
+    </item>
+    
+  </channel>
+</rss>
