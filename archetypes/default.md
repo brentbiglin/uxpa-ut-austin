@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Type your post title here!"
 date: {{ .Date }}
-draft: true
 ---
 
+Type your blog post here!
