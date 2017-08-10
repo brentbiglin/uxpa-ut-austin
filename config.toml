@@ -1,4 +1,4 @@
-baseurl = "https://uxpa.ischool.utexas.edu/"
+baseurl = "https://uxpa-austin-students.netlify.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "UXPA UT Austin"
