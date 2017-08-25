@@ -4,11 +4,7 @@ subtitle: UXPA UT Austin
 comments: false
 ---
 
-##### As the very first UXPA UT Austin student chapter, we are currently busy planning events like a Membership Drive for New Student Orientation, screenings of recorded sessions from the UXPA International Conference, and mentorship and portfolio programs. As those events are finalized, they will be announced here. If you want to join a committee or otherwise get involved, contact us at [uxpautaustin@gmail.com](mailto:uxpautaustin@gmail.com).
-
-### August 4-6, Austin
-#### [Advancing the Careers of Technical Women Conference](http://austin.act-w.org/)
-##### Join us for speaking sessions, hands-on workshops, one-on-one coaching sessions, a career fair, and so much more. This regional happy hour and two-day conference focuses on providing content that addresses the unique women-in-tech landscape in Austin and the surrounding cities. All proceeds from our first annual ACT-W Austin Conference go towards providing STEM education programs to local high school girls through ChickTech.
+#### For regular event announcements, join our [UT Listserv](https://utlists.utexas.edu/sympa/suboptions/uxpa). 
 
 ### October 9-13, Austin
 #### [Human Factors and Ergonomics Society International Annual Meeting](https://www.hfes.org/web/HFESMeetings/2017annualmeeting.html)
