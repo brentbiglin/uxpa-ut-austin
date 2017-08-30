@@ -8,7 +8,7 @@
 
 ### To host the site locally to make changes and view changes:
 1. Open a terminal.
-2. Go to the uxpa-ut-austin folder (remember that the command ```ls``` allows you to view the contents of the folder you're in, ```cd FOLDER``` takes you to that folder, and ```cd ..``` with two periods navigates to the parent folder of the one you're in).
+2. Go to the uxpa-ut-austin folder that you now have on your computer (remember that the command ```ls``` allows you to view the contents of the folder you're in, ```cd FOLDER``` takes you to that folder, and ```cd ..``` with two periods navigates to the parent folder of the one you're in).
 3. Run the command ```hugo server```. This builds the website on your computer and hosts it locally on your computer.
 4. Go to http://localhost:1313/ in your browser
 5. Any changes you make will be updated automatically.
@@ -22,7 +22,7 @@
 6. Check http://localhost:1313/ to see your changes in realtime.
 
 ### To push a change that you've made to GitHub:
-1. Navigate to the uxpa-ut-austin folder in terminal.
+1. Navigate to the uxpa-ut-austin folder on your computer in the terminal.
 2. ```git status```
 3. ```git add THE-FILE-YOU-CHANGED-OR-ADDED```
 4. ```git commit -m "blog entry from YOUR NAME"```
