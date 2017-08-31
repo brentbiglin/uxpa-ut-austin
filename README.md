@@ -1,10 +1,11 @@
 ## How to Submit a Blog Post to UXPA UT Austin
 
 1. Create a GitHub account and log in.
-2. At the top right of this page, click "Fork."
-3. You will now have your own copy (or fork) of the UXPA UT Austin repository in your GitHub account.
-4. On the page of your fork of the repository, click the green "Clone or download" button to copy the fork from your GitHub account online to your computer. The easiest way to do this is to "Open in Desktop." If you haven't already downloaded and installed the GitHub Desktop app, this will prompt you to do so.
-5. You should then have a copy of the site on your computer, which you can change.
+2. Download the GitHub Desktop app.
+3. At the top right of this page, click "Fork."
+4. You will now have your own copy (or fork) of the UXPA UT Austin repository in your GitHub account.
+5. On the page of your fork of the repository, click the green "Clone or download" button to copy the fork from your GitHub account online to your computer. The easiest way to do this is to "Open in Desktop." If you haven't already downloaded and installed the GitHub Desktop app, this will prompt you to do so.
+6. You should then have a copy of the site on your computer, which you can change.
 
 ### To host the site locally to make changes and view changes:
 1. Open a terminal.
