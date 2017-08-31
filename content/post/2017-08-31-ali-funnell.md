@@ -3,7 +3,7 @@ title: New Student Spotlight
 date: 2017-08-31
 ---
 
-### Test: Ali Funnell
+### Ali Funnell
 
 Hi, everyone! My name is Ali Funnell, I’m a first-year student at the iSchool, interested in pursuing a path in User Experience/User Interface Design.
  
