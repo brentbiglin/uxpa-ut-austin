@@ -18,6 +18,10 @@ A virtual conference with on-demand content available October 16. Revolutionary 
 ### [Human Factors and Ergonomics Society International Annual Meeting](https://www.hfes.org/web/HFESMeetings/2017annualmeeting.html)
 Gain new knowledge and network with colleagues at the HFES 2017 International Annual Meeting, which features more than 130 concurrent sessions, plus interactive posters and demos, Fellows posters, and the sixth User Experience Day, featuring a dedicated program track. Take away the latest research and practice solutions from 24 technical areas. Make new strategic contacts at the Opening Reception, Technical Group meetings, and gatherings for early-career professionals and students.
 
+## November 6-10
+### [Austin Design Week 2017](http://austindesignweek.org/)
+Celebrate Austin design through a week of workshops, talks, studio tours and events this November as the city celebrates its creative economy in the second annual Austin Design Week. We’re inviting the community to propose and showcase the best in visual, interactive, product, industrial, architectural and civic design. The introduction of Design Week provides the opportunity to bring together the Austin design community like never before. From the spaces we’re inspired by, to the images that leap from the page, the products we use daily and the way we interact with them, Austin is pushing the boundaries of design. Explore the cutting edge work being done through some of the city’s most innovative creators.
+
 ## February 24
 ### [World IA Day 2018](http://2018.worldiaday.org/)
 World Information Architecture Day is a one-day annual celebration hosted by the Information Architecture Institute and held in dozens of locations across the globe. We are a community of like-minded professionals and enthusiasts who share the common goal of practicing, learning, teaching and shaping the future of information architecture. We share our thoughts, ideas, and work within an open and welcoming environment. The content created as a result of our celebration is available to everyone and we invite conversation around the work we are doing.
