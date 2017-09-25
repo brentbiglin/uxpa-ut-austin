@@ -6,11 +6,13 @@ comments: false
 
 #### For regular event announcements, join our [UT Listserv](https://utlists.utexas.edu/sympa/suboptions/uxpa). 
 
-## Tuesday, September 19
-### Conference Panel Screening: Journey Mapping
-#### Time: 6:00pm - 8:00pm
-#### Location: UTA 1.208
-We'll be showing a conference panel from the UXPA 2017 International Conference from this past June. Snacks and refreshments provided!
+## September 25
+### [Designing for Social Good - City of Austin](https://www.meetup.com/action_design_ATX/events/242897045/)
+At the Capital Factory (701 Brazos), 16th floor. Come learn how Design Thinking and Behavioral Science are being used on projects aimed squarely at improving social good by the City of Austin and elsewhere. 
+
+## October 16 and on
+### [ExperenceWeek 2017](https://experienceweek.com/)
+A virtual conference with on-demand content available October 16. Revolutionary teachings form today's leading experience visionaries. For businesses, no experience can be managed in isolation—the customer, employee, product, and brand experience are all connected. ExperienceWeek brings together visionaries from all four core experiences of business to help you think outside the box and drive more unified, insight-driven efforts within your organization.
 
 ## October 9-13
 ### [Human Factors and Ergonomics Society International Annual Meeting](https://www.hfes.org/web/HFESMeetings/2017annualmeeting.html)
