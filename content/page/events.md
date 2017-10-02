@@ -6,10 +6,6 @@ comments: false
 
 #### For regular event announcements, join our [UT Listserv](https://utlists.utexas.edu/sympa/suboptions/uxpa). 
 
-## September 25
-### [Designing for Social Good - City of Austin](https://www.meetup.com/action_design_ATX/events/242897045/)
-At the Capital Factory (701 Brazos), 16th floor. Come learn how Design Thinking and Behavioral Science are being used on projects aimed squarely at improving social good by the City of Austin and elsewhere. 
-
 ## October 16 and on
 ### [ExperienceWeek 2017](https://experienceweek.com/)
 A virtual conference with on-demand content available October 16. Revolutionary teachings form today's leading experience visionaries. For businesses, no experience can be managed in isolation—the customer, employee, product, and brand experience are all connected. ExperienceWeek brings together visionaries from all four core experiences of business to help you think outside the box and drive more unified, insight-driven efforts within your organization.
