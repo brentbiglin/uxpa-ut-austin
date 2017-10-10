@@ -6,13 +6,17 @@ comments: false
 
 #### For regular event announcements, join our [UT Listserv](https://utlists.utexas.edu/sympa/suboptions/uxpa). 
 
+## October 9-13
+### [Human Factors and Ergonomics Society International Annual Meeting](https://www.hfes.org/web/HFESMeetings/2017annualmeeting.html)
+Gain new knowledge and network with colleagues at the HFES 2017 International Annual Meeting, which features more than 130 concurrent sessions, plus interactive posters and demos, Fellows posters, and the sixth User Experience Day, featuring a dedicated program track. Take away the latest research and practice solutions from 24 technical areas. Make new strategic contacts at the Opening Reception, Technical Group meetings, and gatherings for early-career professionals and students.
+
 ## October 16 and on
 ### [ExperienceWeek 2017](https://experienceweek.com/)
 A virtual conference with on-demand content available October 16. Revolutionary teachings form today's leading experience visionaries. For businesses, no experience can be managed in isolation—the customer, employee, product, and brand experience are all connected. ExperienceWeek brings together visionaries from all four core experiences of business to help you think outside the box and drive more unified, insight-driven efforts within your organization.
 
-## October 9-13
-### [Human Factors and Ergonomics Society International Annual Meeting](https://www.hfes.org/web/HFESMeetings/2017annualmeeting.html)
-Gain new knowledge and network with colleagues at the HFES 2017 International Annual Meeting, which features more than 130 concurrent sessions, plus interactive posters and demos, Fellows posters, and the sixth User Experience Day, featuring a dedicated program track. Take away the latest research and practice solutions from 24 technical areas. Make new strategic contacts at the Opening Reception, Technical Group meetings, and gatherings for early-career professionals and students.
+## October 18
+### [The Witching Hour: Tales of Women in Tech](https://www.meetup.com/fresh2design/events/243648977/)
+Following the enthusiastic turnout of our “Voices of Color” and "LGBTQ Voices" events, we will be continuing our new storytelling tradition with a little Halloween twist. "The Witching Hour: Tales from Women in Tech" is next up on our Diversity Series events. In a similar format, seven Austinites will share true 5-10 minute stories of how being a woman or femme designer or developer has affected their personal life, relationships and work. Each person will have something unique to tell, and we are so excited to share this experience with one another. As always, everyone is invited to share! This is not an exclusive event for women! This is for the design community and beyond. Learning from each other’s experiences is one of the best ways to develop empathy and apply it to our design decisions. Thank you and please reach out to any F2D organizer if you have any questions.
 
 ## November 6-10
 ### [Austin Design Week 2017](http://austindesignweek.org/)
