@@ -6,10 +6,6 @@ comments: false
 
 #### For regular event announcements, join our [UT Listserv](https://utlists.utexas.edu/sympa/suboptions/uxpa). 
 
-## October 9-13
-### [Human Factors and Ergonomics Society International Annual Meeting](https://www.hfes.org/web/HFESMeetings/2017annualmeeting.html)
-Gain new knowledge and network with colleagues at the HFES 2017 International Annual Meeting, which features more than 130 concurrent sessions, plus interactive posters and demos, Fellows posters, and the sixth User Experience Day, featuring a dedicated program track. Take away the latest research and practice solutions from 24 technical areas. Make new strategic contacts at the Opening Reception, Technical Group meetings, and gatherings for early-career professionals and students.
-
 ## October 16 and on
 ### [ExperienceWeek 2017](https://experienceweek.com/)
 A virtual conference with on-demand content available October 16. Revolutionary teachings form today's leading experience visionaries. For businesses, no experience can be managed in isolation—the customer, employee, product, and brand experience are all connected. ExperienceWeek brings together visionaries from all four core experiences of business to help you think outside the box and drive more unified, insight-driven efforts within your organization.
